@@ -10,7 +10,7 @@ namespace PruebaTest
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("Hola mundo", Program.texto());
+            Assert.AreEqual("Hola mundo", Program.texto())
             //prueba
             //nadaccc
         }

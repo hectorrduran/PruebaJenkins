@@ -11,6 +11,8 @@ namespace PruebaTest
         public void TestMethod1()
         {
             Assert.AreEqual("Hola mundo", Program.texto());
+            //prueba
+            //nada
         }
     }
 }
